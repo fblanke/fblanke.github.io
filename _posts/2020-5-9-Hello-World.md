@@ -1,14 +1,14 @@
 ---
 layout: post
 title: On the difficulty of programming
-description: Why is it that we still have software bugs and expensive apps and systems when anyone can access and learn a programming language in a few hours online?
+description: Why is it that we still have software bugs, expensive apps and systems when anyone can access and learn a programming language in a few hours online?
 ---
 
 ## *The challenge with programming is not technical, it's the discipline and the craftmanship*
 
 Is programming hard? That depends, obviously. 
 
-Some might argue that programming requires depth in mathematical knowledge, that you need to be able to work with multiple abstract models in your head and write in some arcane and mysterious language involving 1s and 0s.
+Some might argue that programming requires depth in mathematical knowledge, that you need to be able to work with multiple abstract models in your head and write in some arcane and mysterious language involving 1's and 0's.
 
 On the other hand, almost anyone could write a Hello World or print their name 10 times in a loop with Python, create a Wordpress blog or setup a simple web server with node.js in no time.
 
@@ -16,7 +16,9 @@ Both of these statements are of course true, but I would still make the case tha
 
 Let’s take an example.
 
-Picture a company, Corp Inc which need to further develop their software. They have a user story which states that: “As a newly registered user, I want to receive a message that welcomes me and if I’m either under 18 or over 65, it should let me know that I’m eligible for a discount”.
+Picture a company, Corp Inc which need to further develop their software. They have a user story which states that: 
+
+*“As a newly registered user, I want to receive a message that welcomes me and if I’m either under 18 or over 65, it should let me know that I’m eligible for a discount”.*
 
 Seems easy enough, right? If we don’t have it already, we create a user model something like this:
 
