@@ -3,8 +3,6 @@ layout: post
 title: On the difficulty of programming
 ---
 
-# On the of difficulty of programming
-
 ## *The challenge with programming is not technical, it's the discipline and the craftmanship*
 
 Is programming hard? That depends, obviously. 
@@ -38,7 +36,7 @@ This was an easy story and an example can probably be implemented in it’s easi
 
 But the real difficulty is hidden behind the simple need that we want. For instance, what happens if a user with that name is already registered? Should someone who registers when they’re 17 get a message when they turn 18 to let them know they’re no longer discounted? What happens if a user pressed our “Create user” button twice before the page reloaded?
 
-### Knowing how to use a hammer and a saw doesn't qualify you for building a house
+## Knowing how to use a hammer and a saw doesn't qualify you for being a builder
 
 In Sweden, where I'm from, we have woodworking as a subject in school. You are taught to use basic tools and make simple things like butter knives or sauna scoops (is that even a word?).
 
@@ -46,19 +44,19 @@ I could use my skills and knowledge from woodworking class to build something si
 
 A builder or carpenter can make more complex but very useful things, and that would require more knowledge. What type of wood to use, different techniques for screwing and using sockets, how to get a smooth edge without sacrificing durability, making sure a wall will hold up a roof of thousands of kilos etc.
 
-#### Discipline
+### Discipline and craftmanship
 
 A lazy programmer might create the happy path example I described above and just call it done. But a good programmer would of course also handle the corner cases, error handling, make sure tests are in place to verify a correct flow, add logging to get persisted history and might even ask the question to figure out what expected behaviour should be as a user ages.
 
 To try and recap and summarize let me say this:
 
-Logic is easy (well somewhat..), software engineering is hard.
+**Logic is easy (well somewhat..), software engineering is hard.**
 
 An observant reader might notice that I threw in a new word into the mix, software engineering. 
 
 To me, software engineering is the practice that makes something stable, flexible, scalable and efficient. I do not consider it to have anything to do with business logic. It is simply what is required to turn software into good software (Remember our example above?)
 
-Okay, thanks for that opinion.. But what now?
+Okay so now you're thinking "thanks for that opinion.. But what now?".
 
 Should a user story or requirement of some sort capture these details too so that a lazy programmer is more easily caught? No! Requirements are always hard, and according to me a big driver of why software projects become more expensive and take longer than expected, more on that some other time. Even if you tried to capture ALL of the possible outcomes and expected behaviour, error handling etc, it would not be worth the effort since there is still probably something that a lazy programmer might skip. 
 
