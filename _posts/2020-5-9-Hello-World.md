@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On the difficulty of programming
+description: Why is it that we still have software bugs and expensive apps and systems when anyone can access and learn a programming language in a few hours online?
 ---
 
 ## *The challenge with programming is not technical, it's the discipline and the craftmanship*
@@ -19,16 +20,21 @@ Picture a company, Corp Inc which need to further develop their software. They h
 
 Seems easy enough, right? If we don’t have it already, we create a user model something like this:
 
-```
-User
-First name: String
-Last name: String
-Email: String
-Age: int
-Eligable for discount?: boolean
+```javascript
+class User {
+	first_name: String
+	last_name: String
+	email: String
+	age: int
+	eligable_for_discount?: boolean
+}
 ```
 
-We can pair this with a form on the web to let a user sign up. When they’re done and press send, we can take all the info and send them a message saying: “Welcome <First name>!”. And if 18 < Age < 65 we will also add a line saying that the user is eligible for our discount.
+We can pair this with a form on the web to let a user sign up. When they’re done and press send, we can take all the info and send them a message saying: 
+```
+“Welcome to Corp Inc <First name>!”
+```
+And if 18 < Age < 65 we will also add a line saying that the user is eligible for our discount.
 
 Done! And it was easy right?
 
