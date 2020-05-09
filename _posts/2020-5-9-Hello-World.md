@@ -50,7 +50,7 @@ In Sweden, where I'm from, we have woodworking as a subject in school. You are t
 
 I could use my skills and knowledge from woodworking class to build something simple but useful, say a table. I would take a couple of planks, use a saw to get them to the correct length, nail them together and then use a screwdriver and drill to attach to table legs. Ta da! Am I now a builder? I would say no.
 
-A builder or a carpenter can make more complex but very useful things, and that would require more knowledge. What type of wood to use, different techniques for screwing and using sockets, how to get a smooth edge without sacrificing durability, making sure a wall will hold up a roof of thousands of kilos etc.
+A builder or a carpenter can make more complex but very useful things. These would probably require more knowledge. What type of wood to use, different techniques for screwing and using sockets, how to get a smooth edge without sacrificing durability, making sure a wall will hold up a roof of thousands of kilos etc.
 
 ### Discipline and craftmanship
 
