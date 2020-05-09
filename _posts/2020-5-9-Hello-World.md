@@ -20,7 +20,7 @@ Picture a company, Corp Inc which need to further develop their software. They h
 
 *“As a newly registered user, I want to receive a message that welcomes me and if I’m either under 18 or over 65, it should let me know that I’m eligible for a discount”.*
 
-Seems easy enough, right? If we don’t have it already, we create a user model something like this:
+Seems easy enough, right? If we don’t have it already, we create a model for our users looking something like this:
 
 ```javascript
 class User {
