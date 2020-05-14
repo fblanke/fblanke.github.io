@@ -4,7 +4,7 @@ title: On the difficulty of programming
 description: Why is it that we still have software bugs, expensive apps and systems when anyone can access and learn a programming language in a few hours online?
 ---
 
-## *The challenge with programming is not technical, it's the discipline and the craftmanship*
+### *The challenge with programming is not technical, it's the discipline and the craftmanship*
 
 Is programming hard? That depends, obviously. 
 
@@ -24,11 +24,11 @@ Seems easy enough, right? If we don’t have it already, we create a model for o
 
 ```javascript
 class User {
-	first_name: String
-	last_name: String
-	email: String
-	age: int
-	eligable_for_discount?: boolean
+	first_name: text
+	last_name: text
+	email: text
+	age: number
+	eligable_for_discount?: true/false
 }
 ```
 
